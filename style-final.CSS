@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-img {
+#image {
     width: 130px;
     height: 100px;
 }
@@ -43,8 +43,76 @@ ul li{
     
   
 }
-.introduction h1 {
+.introduction p {
     margin-top: -40px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: sans-serif;
 }
-      
+.paragraphe {
+    font-family: sans-serif;
+    padding: 10px;
+    margin-top: -20px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
     
+
+}
+.prices {
+    border: solid black;
+    display: inline-block;
+  
+}
+.title {
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.PRP {
+    color: gray;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+span {
+    font-size: larger;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.sav {
+    color: green;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.pay {
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}     
+
+#carte2 {
+    margin-left: 10px;
+    margin-top: -450px;
+    border: solid black;
+    display: inline-block;
+}
+#carte3 {
+    margin-left: 10px;
+    margin-top: -450px;
+    border: solid black;
+    display: inline-block;
+}
+#carte4 {
+    margin-left: 10px;
+    margin-top: -450px;
+    border: solid black;
+    display: inline-block;
+}
+
